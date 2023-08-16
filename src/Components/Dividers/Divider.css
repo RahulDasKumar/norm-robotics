@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.text__divider {
+    box-sizing: border-box;
+    padding-block: clamp(2rem, 3rem, 3.1rem);
+    padding-inline: clamp(1rem, 6vw, 10rem);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+    text-align: center;
+    color: '#FFFFFF';
+}
+
+.picture__divider{
+    height: 100vh;
+}
+.parallax_container{
+    height: 100%;
+
+}
+
+.text__divider .text__wrapper {
+    overflow: hidden;
+}
+
+.text__divider .text__wrapper h1 {
+    font-size: clamp(2rem, 4vw, 4rem);
+    color: white;
+    font-weight: 200;
+}
+
+.text__divider .text__wrapper h2 {
+    /* max-width: clamp(30rem, 70vw, 70rem); */
+    font-size: clamp(1rem, 2vw, 2rem);
+}
+
