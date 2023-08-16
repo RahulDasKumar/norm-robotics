@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/norm-robotics/static/css/main.c7cd423f.css",
+    "main.js": "/norm-robotics/static/js/main.03ee2a5a.js",
+    "static/js/787.d12bb34a.chunk.js": "/norm-robotics/static/js/787.d12bb34a.chunk.js",
+    "static/media/sky-parallax.jpg": "/norm-robotics/static/media/sky-parallax.ceafe86877f7b8d2ec40.jpg",
+    "static/media/good-night-picture-tint.png": "/norm-robotics/static/media/good-night-picture-tint.d21c740174dfd37327c4.png",
+    "static/media/Vex-Robot-Five.jpg": "/norm-robotics/static/media/Vex-Robot-Five.4c777576d239bab594b9.jpg",
+    "static/media/night-uncc-campus-scene1.jpg": "/norm-robotics/static/media/night-uncc-campus-scene1.e778db8406efa7886c22.jpg",
+    "static/media/documentation.jpg": "/norm-robotics/static/media/documentation.e995682c54f969bd9bfa.jpg",
+    "static/media/Vex-Robot-Four.jpg": "/norm-robotics/static/media/Vex-Robot-Four.868d2e801ba0aaeb9a28.jpg",
+    "static/media/Vex-Robot-One.jpg": "/norm-robotics/static/media/Vex-Robot-One.f912eb9f997b1b428101.jpg",
+    "static/media/Sparks.png": "/norm-robotics/static/media/Sparks.c4fa54cba506140d0e86.png",
+    "static/media/Vex-Robotics-Two.jpg": "/norm-robotics/static/media/Vex-Robotics-Two.fd358e6f85288be58358.jpg",
+    "static/media/uncc-inside-colored.jpg": "/norm-robotics/static/media/uncc-inside-colored.7ec42a697237fc35d5c5.jpg",
+    "static/media/Vex-Robotics-Three.jpg": "/norm-robotics/static/media/Vex-Robotics-Three.569c972d194b0aa85502.jpg",
+    "static/media/WorldMap.jpg": "/norm-robotics/static/media/WorldMap.928f9be5eb99deda85f6.jpg",
+    "static/media/vex-tournament.jpg": "/norm-robotics/static/media/vex-tournament.958165f70d13adb145df.jpg",
+    "static/media/business.jpg": "/norm-robotics/static/media/business.67b824c618486c75e3a4.jpg",
+    "static/media/BattleRobot.jpg": "/norm-robotics/static/media/BattleRobot.2cdf79b3a92e6a8acc07.jpg",
+    "static/media/circuit-board.jpg": "/norm-robotics/static/media/circuit-board.0a759fc60b428bb7b2b7.jpg",
+    "static/media/mechanical-2.jpg": "/norm-robotics/static/media/mechanical-2.5569069ebfeb9cca6961.jpg",
+    "static/media/better-software.jpg": "/norm-robotics/static/media/better-software.3223fddc035a1922d3a7.jpg",
+    "static/media/Logo_White.jpg": "/norm-robotics/static/media/Logo_White.6012d80dc87db45e1eb9.jpg",
+    "index.html": "/norm-robotics/index.html",
+    "main.c7cd423f.css.map": "/norm-robotics/static/css/main.c7cd423f.css.map",
+    "main.03ee2a5a.js.map": "/norm-robotics/static/js/main.03ee2a5a.js.map",
+    "787.d12bb34a.chunk.js.map": "/norm-robotics/static/js/787.d12bb34a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7cd423f.css",
+    "static/js/main.03ee2a5a.js"
+  ]
+}
