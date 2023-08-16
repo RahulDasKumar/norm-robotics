@@ -8,7 +8,7 @@ import VexRobotics from '../WhatisVexRobotics/WhatIsVexRobotics';
 import { SoftwareDescription,MechanicalDescription,OutreachDescription,BusinessDescription,ElectricalDescription,DocumentationDescription } from '../Roles/Role-Description/RoleDescription';
 const routeDefinitions = createRoutesFromElements(
   <Route>
-    <Route path="/" element={<AboutUs/>}/>
+    <Route path="/norm-robotics" element={<AboutUs/>}/>
     <Route path="/roles" element={<Roles/>}></Route>
     <Route path='/vex-robotics' element={<VexRobotics/>}></Route>
     <Route path='/software-description'element={<SoftwareDescription/>}> </Route>

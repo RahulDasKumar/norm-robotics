@@ -34,7 +34,7 @@ const Nav = () => {
 
     return (
         <nav className="nav">
-            <Link className="nav__link" to="/" data-link-alt="Home">
+            <Link className="nav__link" to="/norm-robotics" data-link-alt="Home">
                 <span>Home</span>
             </Link>
             <Link className="nav__link" to="/roles" data-link-alt="Roles">
