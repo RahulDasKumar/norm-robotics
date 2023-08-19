@@ -7,6 +7,7 @@ import { BackButton } from "../../../Components/Button/Button";
 const SoftwareDescription = () =>{
 
     useEffect(()=>{
+        window.scrollTo(0, 0)
         gsap.context(()=>{
             gsap.fromTo('p', { opacity: 0 }, { opacity: 1, duration: 6 })
             gsap.fromTo('h1', { opacity: 0 }, { opacity: 1, duration: 6 })
@@ -14,8 +15,8 @@ const SoftwareDescription = () =>{
     },[])
     return (
         <section className="role__description">
-            <Animate></Animate>
             <Nav></Nav>
+            <Animate></Animate>
             <h1>Software</h1>
             <p>What does the software role in Norm Robotics do? Well, they make the software of the robots  duh! But let's go a little bit deeper. Most of the software being written will be used to control the robots to complete the various complex tasks in a vex robotics competition. You will be working on coding things that control motion control units, help visual sensors etc. The coding languages used for this will mainly be C++ and Python, and no prior experience is required.
             Joining this role will not only give you experience working with exciting technology, but a place to collaborate with like minded people.</p>

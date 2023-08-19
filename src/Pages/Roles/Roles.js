@@ -14,7 +14,7 @@ const Roles = () =>{
             <Intro title={'Roles'} subtitle={'Scroll down to see all the different roles we have for our club'}>
                 <ParallaxBanner id="role-parallax"layers={[{ image: require('../../Pictures/uncc-pictures/sky-parallax.jpg'), speed: -40 }, { image: require('../../Pictures/Role-picture-gallery/good-night-picture-tint.png'), speed: -15, style: { marginTop: '18%' , backgroundSize:'cover' ,className:'campus-picture' } }]} style={{ aspectRatio: '2 / 1', height: '100%'  }} className="parallax"></ParallaxBanner>
             </Intro>
-            <TextDivider subtitle={"Norm Robotics welcomes all types of students from all backgrounds and majors. Don't feel disencouraged if you don't have a STEM background as there is no previous experience required "} color={Pallete["Black"]}></TextDivider>
+            <TextDivider subtitle={"Norm Robotics welcomes all types of students from all backgrounds and majors. Don't feel discouraged if you don't have a STEM background as there is no previous experience required "} color={Pallete["Black"]}></TextDivider>
             <Description images={require('../../Pictures/Role-picture-gallery/better-software.jpg')} size={'small'}>
                 <h1>Software</h1>
                 <p>In charge of the software of robots</p>

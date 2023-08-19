@@ -13,7 +13,7 @@ const Intro = ({title, subtitle, logo,children}) => {
             gsap.to(".logo-content", { rotation: 360, duration: 5 });
 
             const image = gearAnimation.current
-
+            
             gsap.to(image, {
                 rotation: 360,
                 scrollTrigger: {

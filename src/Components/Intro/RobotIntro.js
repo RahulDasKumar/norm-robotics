@@ -26,7 +26,7 @@ const RobotIntro = ({image1,image2,title}) =>{
             <div className="robot__title">
             <h1>{title}</h1>
             </div>
-            <ParallaxBanner layers={[{ image: image1, speed: -20},{image:image2,speed:-8}]} className="robot__parallax"/>
+            <ParallaxBanner layers={[{ image: image1, speed: -20},{image:image2,speed:-6}]} className="robot__parallax"/>
         </div>
     )
 }

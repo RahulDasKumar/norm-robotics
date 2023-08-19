@@ -1,10 +1,10 @@
 .role__description{
     background-color: #1d232a;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
 }
 .role__description p{
     width: 50%;
@@ -12,10 +12,12 @@
 }
 
 @media (max-width : 800px){
+
     .role__description p {
             width: 50%;
             font-size: .8rem;
         }
+
 }
 
 @media (min-width : 2500px){

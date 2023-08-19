@@ -32,7 +32,6 @@ function App() {
       requestAnimationFrame(raf)
     }
     requestAnimationFrame(raf)
-    console.log('its running on lenis')
   }, [])
 
   return (

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@700&family=Share+Tech+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 .title{
@@ -19,8 +20,8 @@
      justify-content: center;
      align-items: center;
      margin: 0;
-     font-family: 'Share Tech Mono', monospace;
      /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Share Tech Mono', monospace;
     font-weight: 500;
     color: white;
  }

@@ -12,7 +12,6 @@ const Nav = () => {
     })
     const [nav,setNav] = useState(true)
     useEffect(()=>{
-
         if(!nav){
             gsap.to('.nav',{y:-100,duration:.5})
         }
