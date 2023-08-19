@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norm-robotics/static/css/main.c7cd423f.css",
-    "main.js": "/norm-robotics/static/js/main.03ee2a5a.js",
+    "main.css": "/norm-robotics/static/css/main.73074cc5.css",
+    "main.js": "/norm-robotics/static/js/main.dc827496.js",
     "static/js/787.d12bb34a.chunk.js": "/norm-robotics/static/js/787.d12bb34a.chunk.js",
     "static/media/sky-parallax.jpg": "/norm-robotics/static/media/sky-parallax.ceafe86877f7b8d2ec40.jpg",
     "static/media/good-night-picture-tint.png": "/norm-robotics/static/media/good-night-picture-tint.d21c740174dfd37327c4.png",
@@ -23,12 +23,12 @@
     "static/media/better-software.jpg": "/norm-robotics/static/media/better-software.3223fddc035a1922d3a7.jpg",
     "static/media/Logo_White.jpg": "/norm-robotics/static/media/Logo_White.6012d80dc87db45e1eb9.jpg",
     "index.html": "/norm-robotics/index.html",
-    "main.c7cd423f.css.map": "/norm-robotics/static/css/main.c7cd423f.css.map",
-    "main.03ee2a5a.js.map": "/norm-robotics/static/js/main.03ee2a5a.js.map",
+    "main.73074cc5.css.map": "/norm-robotics/static/css/main.73074cc5.css.map",
+    "main.dc827496.js.map": "/norm-robotics/static/js/main.dc827496.js.map",
     "787.d12bb34a.chunk.js.map": "/norm-robotics/static/js/787.d12bb34a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7cd423f.css",
-    "static/js/main.03ee2a5a.js"
+    "static/css/main.73074cc5.css",
+    "static/js/main.dc827496.js"
   ]
 }
